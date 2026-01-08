@@ -77,6 +77,3 @@ Used to detect green infrastructure loss/gain.
 - `berlin_population_2022_english.csv` — Population reference
 
 ---
-
-## 📞 Contact
-For questions or data requests, contact the project maintainer via GitHub Issues.
