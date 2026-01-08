@@ -1,0 +1,10 @@
+File ID,Acquisition Period,Primary District Cluster,Green Coverage %,NDVI Intensity (Mean),Change Score (Δ)
+nvdi_001,July 2023,Mixed / Baseline,17.00%,104.32,0.00
+nvdi_002,Sept 2023,Transition,14.71%,99.95,-2.29
+nvdi_003,March 2024,Pre-Spring,14.21%,100.76,-0.50
+nvdi_004,May 2025,Forest-Heavy,26.01%,118.22,+11.80
+nvdi_005,July 2025,Urban Core,10.78%,100.16,-15.23
+nvdi_006,July 2025,Residential,20.96%,113.62,+10.18
+nvdi_007,Aug 2025,Outer Belt,19.44%,106.58,-1.52
+nvdi_008,Aug 2025,Mixed,14.41%,97.89,-5.03
+nvdi_009,"Aug 18, 2025",Consolidated,15.23%,96.60,-4.21

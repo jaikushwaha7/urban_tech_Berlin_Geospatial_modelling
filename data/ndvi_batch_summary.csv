@@ -1,0 +1,10 @@
+Filename,Size,Format,Avg_NDVI_Intensity,Max_NDVI_Intensity,Green_Coverage_Pct
+nvdi_001.png,"(512, 512)",PNG,104.32,255,17.0
+nvdi_002.png,"(512, 512)",PNG,99.95,255,14.71
+nvdi_003.png,"(512, 512)",PNG,100.76,255,14.21
+nvdi_004.png,"(512, 512)",PNG,118.22,255,26.01
+nvdi_005.png,"(512, 512)",PNG,100.16,255,10.78
+nvdi_006.png,"(512, 512)",PNG,113.62,255,20.96
+nvdi_007.png,"(512, 512)",PNG,106.58,255,19.44
+nvdi_008.png,"(512, 512)",PNG,97.89,255,14.41
+nvdi_009.png,"(512, 512)",PNG,96.6,255,15.23

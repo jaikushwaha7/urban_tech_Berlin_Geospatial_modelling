@@ -1,0 +1,98 @@
+priority_rank,plz,area_name,urban_heat_risk_index,risk_category,district_type,temperature_change,population_2022,population_density_per_sqkm,pollution_index,no2_avg,pm10_avg,traffic_supply_index,heat_exposure_index,vulnerable_population_score
+1,21210,Marzahn,86.48,High Risk,Urban Core (High Density),8.0,109498,34218,0.34,21.06,18.7,0.0,273.67,92946.23
+2,50505,Gatow,43.88,Moderate Risk,Suburban (Low Density),4.34,3431,340,0.34,21.06,18.7,0.0,1.48,501.53
+3,40404,Grünau,43.68,Moderate Risk,Suburban (Low Density),4.34,7391,331,0.34,21.06,18.7,0.0,1.44,488.14
+4,11104,Falkenberg,43.29,Moderate Risk,Suburban (Low Density),4.41,2891,945,0.34,21.06,18.7,0.0,4.17,1414.9
+5,30306,Stadtrandsiedlung Malchow,43.28,Moderate Risk,Suburban (Low Density),4.33,1078,190,0.34,21.06,18.7,0.0,0.82,279.22
+6,90914,Müggelheim,43.24,Moderate Risk,Suburban (Low Density),4.34,6801,306,0.34,21.06,18.7,0.0,1.33,450.99
+7,21202,Tegel,42.75,Moderate Risk,Suburban (Low Density),4.42,35474,1053,0.34,21.06,18.7,0.0,4.65,1580.76
+8,60607,Wannsee,42.07,Moderate Risk,Suburban (Low Density),4.35,9760,412,0.34,21.06,18.7,0.0,1.79,608.82
+9,11106,Malchow,41.6,Moderate Risk,Suburban (Low Density),4.35,663,431,0.34,21.06,18.7,0.0,1.88,637.2
+10,30308,Blankenfelde,41.49,Moderate Risk,Suburban (Low Density),4.32,2013,150,0.34,21.06,18.7,0.0,0.65,220.22
+11,50507,Hakenfelde,40.92,Moderate Risk,Suburban (Low Density),4.47,30903,1515,0.34,21.06,18.7,0.0,6.77,2299.96
+12,90915,Schmöckwitz,40.86,Moderate Risk,Suburban (Low Density),4.33,4439,260,0.34,21.06,18.7,0.0,1.13,382.76
+13,11107,Wartenberg,40.45,Moderate Risk,Suburban (Low Density),4.35,2635,381,0.34,21.06,18.7,0.0,1.66,562.58
+14,30312,Rosenthal,40.38,Moderate Risk,Suburban (Low Density),4.52,9674,1974,0.34,21.06,18.7,0.0,8.92,3029.98
+15,90912,Rahnsdorf,40.31,Moderate Risk,Suburban (Low Density),4.36,10378,483,0.34,21.06,18.7,0.0,2.11,714.99
+16,30303,Blankenburg,39.68,Moderate Risk,Suburban (Low Density),4.43,6705,1112,0.34,21.06,18.7,0.0,4.92,1671.74
+17,21208,Lübars,39.43,Moderate Risk,Suburban (Low Density),4.41,4885,977,0.34,21.06,18.7,0.0,4.31,1463.95
+18,60606,Nikolassee,38.6,Moderate Risk,Suburban (Low Density),4.37,11107,567,0.34,21.06,18.7,0.0,2.48,841.08
+19,90911,Friedrichshagen,38.54,Moderate Risk,Suburban (Low Density),4.45,18425,1316,0.34,21.06,18.7,0.0,5.85,1988.26
+20,50506,Kladow,38.35,Moderate Risk,Suburban (Low Density),4.42,15906,1075,0.34,21.06,18.7,0.0,4.75,1614.66
+21,01002,Biesdorf,38.19,Moderate Risk,Suburban (Low Density),4.56,28894,2330,0.34,21.06,18.7,0.0,10.62,3606.81
+22,30304,Heinersdorf,37.83,Moderate Risk,Suburban (Low Density),4.51,7623,1930,0.34,21.06,18.7,0.0,8.71,2959.33
+23,50503,Siemensstadt,37.07,Moderate Risk,Suburban (Low Density),4.53,11594,2048,0.34,21.06,18.7,0.0,9.27,3149.12
+24,01004,Mahlsdorf,36.92,Moderate Risk,Suburban (Low Density),4.55,29531,2289,0.34,21.06,18.7,0.0,10.42,3539.9
+25,90913,Grunewald,36.84,Moderate Risk,Suburban (Low Density),4.43,10576,1158,0.34,21.06,18.7,0.0,5.13,1742.85
+26,90908,Bohnsdorf,36.66,Moderate Risk,Suburban (Low Density),4.51,12310,1888,0.34,21.06,18.7,0.0,8.52,2892.03
+27,21204,Heiligensee,36.55,Moderate Risk,Suburban (Low Density),4.48,17506,1636,0.34,21.06,18.7,0.0,7.33,2490.91
+28,10104,Tiergarten,36.15,Moderate Risk,Suburban (Low Density),4.59,13696,2649,0.34,21.06,18.7,0.0,12.16,4131.58
+29,21203,Konradshöhe,36.14,Moderate Risk,Suburban (Low Density),4.59,5768,2622,0.34,21.06,18.7,0.0,12.03,4086.87
+30,60605,Dahlem,35.96,Moderate Risk,Suburban (Low Density),4.51,15919,1897,0.34,21.06,18.7,0.0,8.56,2906.44
+31,30309,Buch,35.9,Moderate Risk,Suburban (Low Density),4.4,16399,901,0.34,21.06,18.7,0.0,3.97,1347.56
+32,30310,Französisch Buchholz,35.52,Moderate Risk,Suburban (Low Density),4.49,20858,1738,0.34,21.06,18.7,0.0,7.81,2652.71
+33,90907,Adlershof,35.17,Moderate Risk,Suburban (Low Density),4.66,19753,3233,0.34,21.06,18.7,0.0,15.05,5111.6
+34,21205,Frohnau,35.07,Moderate Risk,Suburban (Low Density),4.53,16430,2106,0.34,21.06,18.7,0.0,9.55,3242.78
+35,01003,Kaulsdorf,35.0,Moderate Risk,Suburban (Low Density),4.54,18910,2146,0.34,21.06,18.7,0.0,9.74,3307.51
+36,70705,Marienfelde,34.88,Moderate Risk,Suburban (Low Density),4.67,30576,3342,0.34,21.06,18.7,0.0,15.6,5297.29
+37,40406,Charlottenburg-Nord,34.7,Moderate Risk,Suburban (Low Density),4.62,17766,2865,0.34,21.06,18.7,0.0,13.22,4491.14
+38,40405,Westend,34.54,Moderate Risk,Suburban (Low Density),4.61,38287,2836,0.34,21.06,18.7,0.0,13.08,4442.67
+39,21207,Waidmannslust,34.5,Moderate Risk,Suburban (Low Density),4.8,10506,4568,0.34,21.06,18.7,0.0,21.92,7445.76
+40,21211,Borsigwalde,34.39,Moderate Risk,Suburban (Low Density),4.67,6676,3338,0.34,21.06,18.7,0.0,15.58,5290.46
+41,60608,Schlachtensee,34.32,Moderate Risk,Suburban (Low Density),4.57,10004,2470,0.34,21.06,18.7,0.0,11.3,3836.2
+42,90905,Niederschöneweide,34.21,Moderate Risk,Suburban (Low Density),4.71,12946,3709,0.34,21.06,18.7,0.0,17.46,5928.88
+43,60604,Zehlendorf,34.05,Moderate Risk,Suburban (Low Density),4.61,52876,2813,0.34,21.06,18.7,0.0,12.97,4404.27
+44,30305,Karow,34.01,Moderate Risk,Suburban (Low Density),4.61,18926,2846,0.34,21.06,18.7,0.0,13.13,4459.38
+45,90904,Johannisthal,33.74,Moderate Risk,Suburban (Low Density),4.64,20224,3092,0.34,21.06,18.7,0.0,14.35,4872.7
+46,90902,Plänterwald,33.73,Moderate Risk,Suburban (Low Density),4.7,11118,3694,0.34,21.06,18.7,0.0,17.38,5902.87
+47,50509,Wilhelmstadt,33.45,Moderate Risk,Suburban (Low Density),4.71,38453,3697,0.34,21.06,18.7,0.0,17.4,5908.07
+48,21206,Hermsdorf,33.26,Moderate Risk,Suburban (Low Density),4.6,16429,2693,0.34,21.06,18.7,0.0,12.38,4204.55
+49,11102,Karlshorst,33.01,Moderate Risk,Suburban (Low Density),4.76,27527,4171,0.34,21.06,18.7,0.0,19.84,6737.99
+50,90901,Altglienicke,32.51,Moderate Risk,Suburban (Low Density),4.72,29905,3790,0.34,21.06,18.7,0.0,17.87,6069.6
+51,70706,Lichtenrade,32.33,Moderate Risk,Suburban (Low Density),4.85,50590,5009,0.34,21.06,18.7,0.0,24.28,8245.52
+52,30313,Wilhelmsruh,32.04,Moderate Risk,Suburban (Low Density),4.91,7676,5603,0.34,21.06,18.7,0.0,27.52,9345.26
+53,90909,Oberschöneweide,32.02,Moderate Risk,Suburban (Low Density),4.72,23416,3789,0.34,21.06,18.7,0.0,17.87,6067.86
+54,01001,Mitte,31.99,Moderate Risk,Suburban (Low Density),4.85,97425,4996,0.34,21.06,18.7,0.0,24.21,8221.74
+55,90903,Baumschulenweg,31.8,Moderate Risk,Suburban (Low Density),4.73,18813,3903,0.34,21.06,18.7,0.0,18.45,6266.73
+56,10102,Märkisches Viertel,30.98,Moderate Risk,Suburban (Low Density),4.86,39341,5096,0.34,21.06,18.7,0.0,24.75,8404.97
+57,80802,Britz,30.75,Moderate Risk,Suburban (Low Density),4.66,40252,3246,0.34,21.06,18.7,0.0,15.12,5133.7
+58,60602,Lichterfelde,30.49,Moderate Risk,Suburban (Low Density),4.79,81594,4483,0.34,21.06,18.7,0.0,21.47,7293.25
+59,21209,Wittenau,30.34,Moderate Risk,Suburban (Low Density),4.73,23435,3972,0.34,21.06,18.7,0.0,18.81,6387.56
+60,70703,Tempelhof,29.74,Low Risk,Suburban (Low Density),4.81,57371,4703,0.34,21.06,18.7,0.0,22.64,7689.07
+61,50508,Falkenhagener Feld,29.57,Low Risk,Suburban (Low Density),4.89,37362,5431,0.34,21.06,18.7,0.0,26.57,9024.16
+62,50504,Staaken,29.44,Low Risk,Suburban (Low Density),4.75,44526,4085,0.34,21.06,18.7,0.0,19.39,6586.19
+63,90910,Kreuzberg,29.31,Low Risk,Suburban (Low Density),4.73,137741,3947,0.34,21.06,18.7,0.0,18.68,6343.74
+64,80804,Rudow,29.09,Low Risk,Suburban (Low Density),4.68,40736,3452,0.34,21.06,18.7,0.0,16.15,5485.56
+65,11112,Rummelsburg,28.89,Low Risk,Suburban (Low Density),4.92,25551,5653,0.34,21.06,18.7,0.0,27.79,9439.01
+66,30311,Niederschönhausen,28.83,Low Risk,Suburban (Low Density),4.82,31138,4798,0.34,21.06,18.7,0.0,23.15,7861.09
+67,50502,Haselhorst,28.77,Low Risk,Suburban (Low Density),4.72,18049,3816,0.34,21.06,18.7,0.0,18.0,6114.88
+68,11110,Alt-Treptow,28.44,Low Risk,Suburban (Low Density),4.89,12472,5399,0.34,21.06,18.7,0.0,26.4,8964.66
+69,50501,Spandau,28.4,Low Risk,Suburban (Low Density),4.81,37536,4674,0.34,21.06,18.7,0.0,22.49,7636.69
+70,11103,Lichtenberg,27.31,Low Risk,Suburban (Low Density),4.9,39622,5488,0.34,21.06,18.7,0.0,26.88,9130.33
+71,10101,Moabit,27.25,Low Risk,Suburban (Low Density),5.07,75771,7081,0.34,21.06,18.7,0.0,35.9,12193.86
+72,21201,Reinickendorf,27.16,Low Risk,Suburban (Low Density),5.09,76495,7285,0.34,21.06,18.7,0.0,37.1,12599.61
+73,40403,Schmargendorf,26.88,Low Risk,Suburban (Low Density),4.98,22327,6219,0.34,21.06,18.7,0.0,30.95,10513.05
+74,20202,Köpenick,26.66,Low Risk,Suburban (Low Density),5.0,67140,6456,0.34,21.06,18.7,0.0,32.3,10969.75
+75,90906,Alt-Hohenschönhausen,26.54,Low Risk,Suburban (Low Density),4.87,48842,5235,0.34,21.06,18.7,0.0,25.5,8660.89
+76,70704,Mariendorf,25.71,Low Risk,Suburban (Low Density),4.88,49993,5330,0.34,21.06,18.7,0.0,26.02,8836.61
+77,01005,Hellersdorf,25.68,Low Risk,Mixed Urban (Medium Density),5.41,83175,10269,0.34,21.06,18.7,0.0,55.6,18883.21
+78,10105,Wedding,25.67,Low Risk,Mixed Urban (Medium Density),5.22,78099,8461,0.34,21.06,18.7,0.0,44.16,14998.09
+79,80803,Buckow,25.53,Low Risk,Suburban (Low Density),4.95,37718,5940,0.34,21.06,18.7,0.0,29.39,9980.69
+80,60603,Lankwitz,25.14,Low Risk,Suburban (Low Density),4.96,42291,6050,0.34,21.06,18.7,0.0,30.0,10189.9
+81,30307,Pankow,24.11,Low Risk,Mixed Urban (Medium Density),5.54,64557,11406,0.34,21.06,18.7,0.0,63.15,21449.13
+82,30301,Prenzlauer Berg,23.76,Low Risk,Mixed Urban (Medium Density),5.87,159369,14488,0.34,21.06,18.7,0.0,85.04,28880.83
+83,20201,Friedrichshain,23.74,Low Risk,Mixed Urban (Medium Density),5.7,126291,12913,0.34,21.06,18.7,0.0,73.6,24996.03
+84,30302,Weißensee,23.01,Low Risk,Suburban (Low Density),5.05,54380,6858,0.34,21.06,18.7,0.0,34.61,11753.82
+85,70701,Schöneberg,22.9,Low Risk,Mixed Urban (Medium Density),5.48,115670,10912,0.34,21.06,18.7,0.0,59.84,20322.66
+86,60601,Steglitz,22.81,Low Risk,Mixed Urban (Medium Density),5.44,71578,10542,0.34,21.06,18.7,0.0,57.39,19490.66
+87,80801,Neukölln,22.6,Low Risk,Mixed Urban (Medium Density),5.7,150733,12883,0.34,21.06,18.7,0.0,73.39,24923.8
+88,10103,Hansaviertel,22.33,Low Risk,Mixed Urban (Medium Density),5.45,5629,10621,0.34,21.06,18.7,0.0,57.91,19667.46
+89,40407,Halensee,22.22,Low Risk,Mixed Urban (Medium Density),5.55,14595,11492,0.34,21.06,18.7,0.0,63.74,21647.06
+90,40401,Charlottenburg,22.17,Low Risk,Mixed Urban (Medium Density),5.52,119191,11244,0.34,21.06,18.7,0.0,62.06,21077.75
+91,10106,Gesundbrunnen,22.08,Low Risk,Mixed Urban (Medium Density),5.83,86701,14144,0.34,21.06,18.7,0.0,82.49,28016.82
+92,11101,Friedrichsfelde,21.67,Low Risk,Mixed Urban (Medium Density),5.38,55137,9935,0.34,21.06,18.7,0.0,53.43,18147.46
+93,11111,Fennpfuhl,21.18,Low Risk,Mixed Urban (Medium Density),5.95,32389,15278,0.34,21.06,18.7,0.0,90.97,30897.84
+94,11109,Neu-Hohenschönhausen,21.08,Low Risk,Mixed Urban (Medium Density),5.46,55279,10713,0.34,21.06,18.7,0.0,58.52,19873.93
+95,70702,Friedenau,20.52,Low Risk,Mixed Urban (Medium Density),6.08,27090,16418,0.34,21.06,18.7,0.0,99.78,33889.08
+96,40402,Wilmersdorf,19.35,Low Risk,Mixed Urban (Medium Density),5.73,94261,13165,0.34,21.06,18.7,0.0,75.39,25605.39
+97,80805,Gropiusstadt,18.73,Low Risk,Mixed Urban (Medium Density),5.75,35584,13377,0.34,21.06,18.7,0.0,76.91,26121.62

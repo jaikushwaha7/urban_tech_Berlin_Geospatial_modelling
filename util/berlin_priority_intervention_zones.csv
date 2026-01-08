@@ -1,0 +1,11 @@
+priority_rank,plz,area_name,urban_heat_risk_index,risk_category,district_type,temperature_change,population_2022,population_density_per_sqkm,pollution_index,no2_avg,pm10_avg,traffic_supply_index,heat_exposure_index,vulnerable_population_score
+1,21210,Marzahn,86.48,High Risk,Urban Core (High Density),8.0,109498,34218,0.34,21.06,18.7,0.0,273.67,92946.23
+2,50505,Gatow,43.88,Moderate Risk,Suburban (Low Density),4.34,3431,340,0.34,21.06,18.7,0.0,1.48,501.53
+3,40404,Grünau,43.68,Moderate Risk,Suburban (Low Density),4.34,7391,331,0.34,21.06,18.7,0.0,1.44,488.14
+4,11104,Falkenberg,43.29,Moderate Risk,Suburban (Low Density),4.41,2891,945,0.34,21.06,18.7,0.0,4.17,1414.9
+5,30306,Stadtrandsiedlung Malchow,43.28,Moderate Risk,Suburban (Low Density),4.33,1078,190,0.34,21.06,18.7,0.0,0.82,279.22
+6,90914,Müggelheim,43.24,Moderate Risk,Suburban (Low Density),4.34,6801,306,0.34,21.06,18.7,0.0,1.33,450.99
+7,21202,Tegel,42.75,Moderate Risk,Suburban (Low Density),4.42,35474,1053,0.34,21.06,18.7,0.0,4.65,1580.76
+8,60607,Wannsee,42.07,Moderate Risk,Suburban (Low Density),4.35,9760,412,0.34,21.06,18.7,0.0,1.79,608.82
+9,11106,Malchow,41.6,Moderate Risk,Suburban (Low Density),4.35,663,431,0.34,21.06,18.7,0.0,1.88,637.2
+10,30308,Blankenfelde,41.49,Moderate Risk,Suburban (Low Density),4.32,2013,150,0.34,21.06,18.7,0.0,0.65,220.22

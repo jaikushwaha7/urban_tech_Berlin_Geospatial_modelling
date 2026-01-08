@@ -1,0 +1,778 @@
+{
+  "10101": {
+    "temperature_change": 5.0703731294036904,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 7081.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "10102": {
+    "temperature_change": 4.856239886948766,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5096.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "10103": {
+    "temperature_change": 5.452253068089045,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 10621.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "10104": {
+    "temperature_change": 4.592268076224737,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2649.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "10105": {
+    "temperature_change": 5.219241580077642,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 8461.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "10106": {
+    "temperature_change": 5.8322991200632,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 14144.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "20201": {
+    "temperature_change": 5.699504147034479,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 12913.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "20202": {
+    "temperature_change": 5.002950823844835,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 6456.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30301": {
+    "temperature_change": 5.8694083570427935,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 14488.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30302": {
+    "temperature_change": 5.046316850780292,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 6858.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30303": {
+    "temperature_change": 4.426463142394401,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1112.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30304": {
+    "temperature_change": 4.51470545590983,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1930.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30305": {
+    "temperature_change": 4.613519586936889,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2846.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30306": {
+    "temperature_change": 4.327001757233978,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 190.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30307": {
+    "temperature_change": 5.536935483870967,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 11406.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30308": {
+    "temperature_change": 4.322686729678211,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 150.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30309": {
+    "temperature_change": 4.403701372037732,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 901.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30310": {
+    "temperature_change": 4.49399332364215,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1738.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30311": {
+    "temperature_change": 4.8240929316583046,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4798.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30312": {
+    "temperature_change": 4.519451986221173,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1974.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "30313": {
+    "temperature_change": 4.910932861218109,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5603.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40401": {
+    "temperature_change": 5.519459622270112,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 11244.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40402": {
+    "temperature_change": 5.726688820635809,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 13165.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40403": {
+    "temperature_change": 4.9773842855769175,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 6219.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40404": {
+    "temperature_change": 4.342212229368055,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 331.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40405": {
+    "temperature_change": 4.612440830047946,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2836.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40406": {
+    "temperature_change": 4.615569225025878,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2865.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "40407": {
+    "temperature_change": 5.546212793115866,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 11492.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50501": {
+    "temperature_change": 4.810716346235428,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4674.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50502": {
+    "temperature_change": 4.718159005164232,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3816.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50503": {
+    "temperature_change": 4.527434787199343,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2048.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50504": {
+    "temperature_change": 4.747177565476763,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4085.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50505": {
+    "temperature_change": 4.343183110568103,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 340.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50506": {
+    "temperature_change": 4.4224717419053166,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1075.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50507": {
+    "temperature_change": 4.46993704501875,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1515.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50508": {
+    "temperature_change": 4.892378242728313,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5431.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "50509": {
+    "temperature_change": 4.7053217981858255,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3697.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60601": {
+    "temperature_change": 5.443730888666407,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 10542.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60602": {
+    "temperature_change": 4.790112089656642,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4483.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60603": {
+    "temperature_change": 4.959153294153803,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 6050.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60604": {
+    "temperature_change": 4.6099596892033805,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2813.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60605": {
+    "temperature_change": 4.511145558176323,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1897.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60606": {
+    "temperature_change": 4.367670891947079,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 567.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60607": {
+    "temperature_change": 4.350950160168483,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 412.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "60608": {
+    "temperature_change": 4.572958327912682,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2470.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70701": {
+    "temperature_change": 5.483644893557249,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 10912.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70702": {
+    "temperature_change": 6.077608436608538,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 16418.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70703": {
+    "temperature_change": 4.813844741213359,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4703.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70704": {
+    "temperature_change": 4.881482798150002,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5330.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70705": {
+    "temperature_change": 4.667025928628395,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3342.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "70706": {
+    "temperature_change": 4.846854702014974,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5009.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "80801": {
+    "temperature_change": 5.696267876367654,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 12883.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "80802": {
+    "temperature_change": 4.656669862494556,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3246.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "80803": {
+    "temperature_change": 4.947286968375445,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5940.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "80804": {
+    "temperature_change": 4.678892254406755,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3452.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "80805": {
+    "temperature_change": 5.749558466681373,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 13377.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90901": {
+    "temperature_change": 4.715354237252983,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3790.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90902": {
+    "temperature_change": 4.704998171119143,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3694.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90903": {
+    "temperature_change": 4.727544190098024,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3903.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90904": {
+    "temperature_change": 4.640057006404854,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3092.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90905": {
+    "temperature_change": 4.706616306452555,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3709.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90906": {
+    "temperature_change": 4.871234607705056,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5235.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90907": {
+    "temperature_change": 4.655267478538931,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3233.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90908": {
+    "temperature_change": 4.510174676976275,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1888.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90909": {
+    "temperature_change": 4.715246361564089,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3789.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90910": {
+    "temperature_change": 4.732290720409368,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3947.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90911": {
+    "temperature_change": 4.448469782928811,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1316.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90912": {
+    "temperature_change": 4.358609334079969,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 483.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90913": {
+    "temperature_change": 4.431425424083533,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1158.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90914": {
+    "temperature_change": 4.339515337145701,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 306.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "90915": {
+    "temperature_change": 4.33455305545657,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 260.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "01001": {
+    "temperature_change": 4.845452318059349,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4996.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "01002": {
+    "temperature_change": 4.557855731467497,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2330.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "01003": {
+    "temperature_change": 4.538006604710971,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2146.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "01004": {
+    "temperature_change": 4.553432828222837,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2289.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "01005": {
+    "temperature_change": 5.414280825598298,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 10269.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11101": {
+    "temperature_change": 5.378250345507647,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 9935.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11102": {
+    "temperature_change": 4.756454874721661,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4171.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11103": {
+    "temperature_change": 4.89852715699528,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5488.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11104": {
+    "temperature_change": 4.408447902349074,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 945.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11106": {
+    "temperature_change": 4.352999798257472,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 431.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11107": {
+    "temperature_change": 4.347606013812764,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 381.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11109": {
+    "temperature_change": 5.462177631467309,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 10713.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11110": {
+    "temperature_change": 4.888926220683699,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5399.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11111": {
+    "temperature_change": 5.954630151269187,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 15278.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "11112": {
+    "temperature_change": 4.916326645662818,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 5653.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21201": {
+    "temperature_change": 5.0923797699381,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 7285.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21202": {
+    "temperature_change": 4.4200984767496445,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1053.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21203": {
+    "temperature_change": 4.589355432624594,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2622.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21204": {
+    "temperature_change": 4.482990003374945,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 1636.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21205": {
+    "temperature_change": 4.533691577155204,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2106.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21206": {
+    "temperature_change": 4.597014606536081,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 2693.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21207": {
+    "temperature_change": 4.799281523212645,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 4568.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21208": {
+    "temperature_change": 4.411899924393688,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 977.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21209": {
+    "temperature_change": 4.734987612631722,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3972.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21210": {
+    "temperature_change": 7.9977956989247305,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 34218.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  },
+  "21211": {
+    "temperature_change": 4.666594425872819,
+    "pollution_index": 0.3396306412679743,
+    "population_density": 3338.0,
+    "traffic_supply": 0.0,
+    "no2_avg": 21.062051971326166,
+    "pm10_avg": 18.696558144165667
+  }
+}
