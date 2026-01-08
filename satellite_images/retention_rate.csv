@@ -1,0 +1,13 @@
+Rank,District,Resilience Tier,Dominant Feature,Final Index Score
+1,Treptow-Köpenick,High,43% Vegetation Area (Müggelheim Forest),0.92
+2,Spandau,High,Forested West (Gatow/Kladow),0.88
+3,Steglitz-Zehlendorf,High,Grunewald Protection Zone,0.85
+4,Pankow,Medium,30.8% Mixed Agricultural/Residential,0.74
+5,Reinickendorf,Medium,Tegel Forest Influence,0.69
+6,Marzahn-Hellersdorf,Moderate,Gardens and Suburban Greenery,0.61
+7,Lichtenberg,Moderate,Landscape Parks (Tierpark),0.58
+8,Charlottenburg-Wilmersdorf,Low-Medium,Urban Parks (Schlosspark),0.49
+9,Tempelhof-Schöneberg,Low,Tempelhofer Feld (Open Grassland Stress),0.38
+10,Neukölln,Critical,80.3% Built-up Area (High Heat Absorption),0.22
+11,Friedrichshain-Kreuzberg,Critical,Dense Urban Block Structure,0.18
+12,Mitte,Critical,Minimal Vegetation / Extreme Heat Sink,0.15
