@@ -9,15 +9,9 @@
 | Population     | Berlin Census 2022 (Amt für Statistik) | population_2022, population_density  | Numeric cleanup, postal code standardization (5-digit PLZ), area name retention |
 | Traffic Supply | BVG/Berlin Mobility API                | stop_count, traffic_supply_index      | Normalized stop count → index (0–1). Missing values imputed                     |
 
----
 
 ## 🛰️ 1. Satellite Data Acquisition & Processing
 **Source:** Copernicus Sentinel-2 Level-2A (via Copernicus Open Access Hub)
-- **Temporal Scope:** May 1, 2020 – August 31, 2025 (summer seasons only)
-- **Geographic Scope:** Berlin bounding box
-- **Cloud Removal:** s2cloudless + DEM correction (≤10 km AGL)
-- **Cloud Threshold:** ≤20% residual cloud cover per image
-- **Output:** Monthly composite NDVI rasters, summarized per image tile
 
 ### NDVI Summary Metrics (per image)
 | Field                | Description                        | Example      |
@@ -44,22 +38,16 @@ Used to detect green infrastructure loss/gain.
 | nvdi_004  | May 2025          | Forest-Heavy            | 26.01%           | 118.22               | +11.80           |
 | nvdi_005  | July 2025         | Urban Core              | 10.78%           | 100.16               | −15.23           |
 
----
 
 ## 📊 2. Population Data Integration
 **Source:** Amt für Statistik Berlin-Brandenburg
-- Official state statistics office — data legally mandated, annually updated, spatially referenced to official PLZ and Bezirk boundaries.
-- **Data Used:**
   - "Bevölkerung nach Berliner Bezirken und Ortsteilen" (2022 base, projected to 2025)
   - Gridded population (100m × 100m) via Gitternetz-Bevölkerungsmodell (where available)
-- **Temporal Handling:**
   - 2020–2022: census actuals
   - 2023–2025: linear projection based on migration + birth/death rates (official forecast tables)
   - Documented uncertainty: ±1.2% per year (per StatBB methodology report)
-- **Spatial Alignment:**
   - Population grids → resampled to match Sentinel-2 10m resolution via conservative area-weighted aggregation (no interpolation), then zonal stats to PLZ/H3 units.
 
----
 
 ## 🔗 Integration Workflow Summary
 1. **Ingest** all raw data (weather, pollution, population, traffic, satellite)
@@ -68,12 +56,10 @@ Used to detect green infrastructure loss/gain.
 4. **Compute indices** (NDVI, pollution, traffic supply, population density)
 5. **Export** integrated datasets for analytics and visualization
 
----
 
 ## 📁 Output Files
-- `berlin_integrated_data.csv` — Main integrated dataset
-- `final_berlin_h3_comparison.csv` — H3 grid-based summary
-- `change_score.csv` — NDVI change scores
-- `berlin_population_2022_english.csv` — Population reference
 
----
+<<<<<<< HEAD
+=======
+
+>>>>>>> c30cdbf (Sync with local changes: update docs, remove obsolete files)
